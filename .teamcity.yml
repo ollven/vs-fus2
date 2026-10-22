@@ -1,4 +1,0 @@
-jobs:
-  Job1:
-    name: TW-101745 YAML import fixture
-    steps: []
